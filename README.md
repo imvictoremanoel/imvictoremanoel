@@ -1,4 +1,4 @@
-# 🤓 About Me:
+# 🧑‍💻 About Me:
 17 anos<br>Desenvolvedor front end<br>Sempre buscando aprender coisas novas
 
 
