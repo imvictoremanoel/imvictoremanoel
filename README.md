@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=imvictoremanoel&icon=3&color=6)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/{{imvictoremanoel}}/{{imvictoremanoel}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/imvictoremanoel/imvictoremanoel/blob/output/github-contribution-grid-snake.svg)
