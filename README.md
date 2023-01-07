@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-17 anos<br>Desenvolvedor front end<br>
+17 anos<br>Desenvolvedor Frontend<br>
 
 
 ## 🌐 Socials:
